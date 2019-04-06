@@ -1,6 +1,7 @@
 # Cryptocoins
 ------
 ![logo](./assets/logo.png)
+
 Cryptocoins  is a mobile application showcasing the top 100 cryptocurrencies, their pricing and changes with pull to refresh feature.
 
 **Note**: This app was initially made for #FlutterCreate, a contest by Google that challenges developers to build a beautiful Flutter app using 5KB or less of Dart code.
